@@ -1,3 +1,8 @@
+---
+layout: wide_default
+---
+
+
 # Network Analysis for Influencer Marketing Strategy Project 
 
 ## Main Objectives 
