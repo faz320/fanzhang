@@ -1,4 +1,9 @@
-# Step 3: Analysis report
+---
+layout: wide_default
+---
+
+
+# Analysis report
 
 
 ```python
