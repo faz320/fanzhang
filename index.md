@@ -1,13 +1,15 @@
 ## About Me
 
-What's up? hey\|you
+I am an A bilingual, visionary intrapreneur, strategic planner with deep rooted public and private
+sector experience. Results-oriented, creative program manager with excellent teamwork and
+problem-solving skills. Experienced in helping global organizations develop inclusive
+workplace cultures, which enable employees to achieve their passion and full potential. 
 
-I am an awesome student at Lehigh, you should hire me!
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="images/photo.png" width="50%">
 </p>
 
 ---
@@ -16,45 +18,27 @@ I am an awesome student at Lehigh, you should hire me!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
+_**[Natural language processing 10-Ks to identify risks](analysis_report/analysis_report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="analysis_report/output_55_0.png"/>
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Network Analysis for Influencer Marketing Strategy](MarketingProject/Project1.md)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="MarketingProject/output_11_0.png"/>
 
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
+Applying data analytics on the areas including People Operations, Organizational Development, Change Management, Talent Management, and Learning and Development, to help organizational improve efficiency, build closer communities and achieve greater impacts.  
 
-Sell yourself!
-
----
-
-## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
